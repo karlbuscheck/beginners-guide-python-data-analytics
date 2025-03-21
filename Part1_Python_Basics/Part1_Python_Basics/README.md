@@ -12,4 +12,4 @@ to teach the basics of Time Series, DataFrames, Data Cleaning and 'group by' ope
 - numpy
 
 ### Note
-This is notebook is a work in progress. The only way to code, is to practice. Stay tuned for more.
+This notebook is a work in progress. The only way to code is to practice. Stay tuned for more.
