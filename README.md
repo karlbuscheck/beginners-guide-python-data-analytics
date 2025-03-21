@@ -4,9 +4,9 @@
 
 This is a three-part series:
 
-- **Part 1: Python basics** — Time Series, DataFrames, Date Cleaning, and 'group by'
+- **Part 1: Python Basics** — Time Series, DataFrames, Date Cleaning, and 'group by'
 - **Part 2: Intermediate Concepts** — Preprocessing, Visualizing, Merging Data, and Intro to Machine Learning
-- **Part 3: Spotify project** — Building a real-world Machine Learning Model to predict podcast rankings
+- **Part 3: Spotify Project** — Building a real-world Machine Learning Model to predict podcast rankings
 
 ## Tools & Libraries Used
 - **Jupyter Notebook** — for writing and running Python code interactively
