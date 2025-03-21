@@ -16,3 +16,7 @@ This is a three-part series:
 - **matplotlib** — for basic plotting
 - **seaborn** — for data visualization
 - **scikit-learn** — for building machine learning models
+
+## Note
+This notebook is a work in progress. The only way to code is to practice. Stay tuned for more.
+
