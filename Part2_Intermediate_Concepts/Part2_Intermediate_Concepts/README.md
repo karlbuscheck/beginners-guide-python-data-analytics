@@ -15,4 +15,4 @@ on preprrocessing and cleaning data, and ends with a pair of machine learning mo
 - scikit-learn
 
 ### Note
-This is notebook is a work in progress. The only way to code, is to practice. Stay tuned for more.
+This notebook is a work in progress. The only way to code is to practice. Stay tuned for more.
