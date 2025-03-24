@@ -17,6 +17,13 @@ This is a three-part series:
 - **seaborn** — for data visualization
 - **scikit-learn** — for building machine learning models
 
+## Acknowledgements
+
+This project is based on the notebooks and datasets provided by Yu-Wei Lin, Assistant Professor in the Department of
+Information Systems and Analytics at the Leavey School of Business at Santa Clara University. Professor Lin's guidance in
+our Data Analytics with Python class made this project possible, allowing me to apply and extend the concepts covered in the
+course to build this three-part series.
+
 ## Note
 This notebook is a work in progress. The only way to code is to practice. Stay tuned for more.
 
